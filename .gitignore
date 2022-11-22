@@ -1,0 +1,2 @@
+# ignoring all .sqlite files from the db folder
+db/*.sqlite
