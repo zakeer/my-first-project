@@ -4,3 +4,5 @@ Ramesh  Hyderabad
 Apsar   Vijayawada
 Saad    Ongole
 Zaheer  Ongole
+Koti    Hyderabad
+Baji    Guntur
